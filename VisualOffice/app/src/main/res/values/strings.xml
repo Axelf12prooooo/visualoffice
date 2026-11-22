@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VisualOffice</string>
+
+    <string name="nav_home">Accueil</string>
+    <string name="nav_documents">Documents</string>
+    <string name="nav_code">Code</string>
+    <string name="nav_projects">Projets</string>
+    <string name="nav_files">Fichiers</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="preview_title">Aperçu</string>
+
+    <string name="home_welcome">Bienvenue dans VisualOffice</string>
+    <string name="home_subtitle">Votre suite bureautique et votre atelier de développement, réunis sur Android.</string>
+    <string name="action_open_file">Ouvrir un fichier</string>
+    <string name="action_new_document">Nouveau document</string>
+    <string name="action_new_project">Nouveau projet</string>
+    <string name="home_creation_note">La création de documents et de projets arrive avec les phases 4 et 5.</string>
+    <string name="home_quick_access">Accès rapide</string>
+    <string name="home_recent_files">Fichiers récents</string>
+    <string name="home_recent_empty">Aucun fichier récent. Ouvrez un fichier pour le retrouver ici.</string>
+    <string name="quick_documents_desc">Texte, tableurs et présentations</string>
+    <string name="quick_code_desc">Éditeur de code et terminal</string>
+    <string name="quick_projects_desc">Dossiers de projets</string>
+    <string name="quick_files_desc">Explorateur de fichiers</string>
+    <string name="remove_recent">Retirer des fichiers récents</string>
+
+    <string name="placeholder_title">Pas encore disponible</string>
+    <string name="placeholder_documents">VisualWriter, VisualSheets et VisualSlides arrivent aux phases 4, 6 et 7.</string>
+    <string name="placeholder_code">VisualCode et le terminal intégré arrivent à la phase 5.</string>
+    <string name="placeholder_projects">La gestion de projets arrive à la phase 5.</string>
+    <string name="placeholder_files">L’explorateur de fichiers arrive à la phase 3. En attendant, « Ouvrir un fichier » sur l’accueil affiche un aperçu des fichiers texte.</string>
+
+    <string name="preview_back">Retour</string>
+    <string name="preview_truncated">Aperçu tronqué aux %1$d premiers Ko.</string>
+    <string name="preview_unsupported">Aucun aperçu disponible pour ce type de fichier pour l’instant.</string>
+    <string name="preview_error">Impossible de lire ce fichier.</string>
+
+    <string name="settings_theme">Thème</string>
+    <string name="theme_dark">Sombre</string>
+    <string name="theme_light">Clair</string>
+    <string name="theme_system">Suivre le système</string>
+    <string name="settings_about">À propos</string>
+    <string name="settings_version">Version installée</string>
+</resources>
